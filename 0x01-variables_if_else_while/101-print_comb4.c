@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * description: print all possible different combinations of two digits
- *
- * retuen: Always 0
-*/
+  *main - Entry point
+  *
+  *description: 'print all possible different combinations of two digits'
+  *
+  *Return:always 0
+  */
 int main(void)
 {
 	int digit1 = 0;
